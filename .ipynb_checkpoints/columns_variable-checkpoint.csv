@@ -1,0 +1,25 @@
+﻿Columnas;variable
+0,Marca temporal;timestamp
+1,¿Cuál es su edad?;edad
+2,¿Con que genero te identificas?;genero
+3,¿En que país vive?;pais
+4,¿Qué tanto conoce sobre la infertilidad?;conocimiento_infertilidad
+5,¿Ha buscado alguna vez información sobre la infertilidad?;busqueda_informacion
+6,¿En que plataformas o dispositivos a buscado información sobre la infertilidad?;medio_informacion
+7,¿Cuántas parejas conoce usted que tienen problemas de fertilidad?;conocimiento_parejas
+8,¿Le gustaría usar una plataforma o aplicación con datos confiables sobre temas relacionados a infertilidad?;medio_confiable
+9,¿Alguno de sus familiares tiene o ha tenido infertilidad;informacion_familiar
+10,¿Qué edad tiene su familiar?;edad_familiar
+11,¿Cuál es el genero de su familiar?;genero_familiar
+12,¿Usted tiene o ha tenido infertilidad?;informacion_personal
+13,¿Hace cuanto tiempo se dio cuenta que tenia infertilidad?;tiempo
+14,¿Quién fue su primer contacto cuando se dio cuenta de su caso de infertilidad?;primer_contacto
+15,¿Qué tanto tiempo se tardo en visitar a un especialista para tratar su infertilidad?;tiempo_visitar
+"16,""Después de estar en contacto con su especialista, que tantos cambios a notado en su infertilidad""";contacto
+17,¿Qué métodos o actividades ha realizado para tratar de solucionar su infertilidad?;solucion
+18,¿Se ha automedicado?;automedicacion
+19,¿Cuál de los siguientes habitos tiene en su vida?;habitos
+20,¿Qué tan seguido es la ocurrencia de sus Habitos anteriormente mencionados?;ocurrencia_habitos
+21,¿Practica algún deporte de manera periódica?;deporte
+22,¿Sufre de estrés?;estrés
+23,¿Tiene una dieta sana y equilibrada?;dieta
